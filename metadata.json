@@ -1,0 +1,8 @@
+{
+  "name": "TEXON'26 - National Technical Symposium",
+  "description": "Official website for TEXON'26 - Takshashila EXcellence in electrONics, National-Level Technical Symposium organized by Dept of ECE, Takshashila University.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
